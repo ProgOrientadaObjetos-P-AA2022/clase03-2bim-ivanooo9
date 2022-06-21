@@ -1,4 +1,3 @@
-
 package herencia3;
 
 public class EstudianteDistancia extends Estudiante{

@@ -35,7 +35,6 @@ public class Ejecutor1 {
         
         System.out.println("----------------------");
         System.out.println(rd);
-        
     }
 }
 
@@ -44,9 +43,7 @@ public class Ejecutor1 {
 Reporte Distancia
 Carrera: Derecho 
 Ciclo: Sexto
-
 Lista de Estudiantes
-
 Nombre: Mario
 Apellido: Mills
 Identificación: 212233
@@ -54,7 +51,6 @@ Edad: 23
 Costo Asignatura: 100,20
 Número de Asignaturas: 1
 Total Matricula: 100,20
-
 Nombre: Joseph
 Apellido: White
 Identificación: 212234
@@ -62,7 +58,6 @@ Edad: 24
 Costo Asignatura: 100,20
 Número de Asignaturas: 5
 Total Matricula: 501,00
-
 Nombre: Catherine
 Apellido: Reyes
 Identificación: 212235
@@ -70,7 +65,5 @@ Edad: 25
 Costo Asignatura: 100,20
 Número de Asignaturas: 8
 Total Matricula: 801,60
-
-
 El total de matriculas es: 1402,80
 */
